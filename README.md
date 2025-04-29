@@ -58,7 +58,7 @@ Follow these steps to set up your **AquaGrowX-System**:
 6. **Power up the system** (microcontroller, sensors, and actuators).
 7. Congratulations! 🎉 **Your AquaGrowX-System setup is now fully operational!** 🚀  
 
-![PXL]AquaGrowX/img/pic2.jpg)
+![PXL_20240418_063912559]AquaGrowX/img/pic2.jpg)
 
 **Note:** If using **ESP8266**, you'll need **two microcontrollers**, as it has only **one analog pin** (and this project requires at least **two**). Alternatively, you can use an **Arduino UNO** but will need an **external Wi-Fi module**. The best option is to use **ESP32**, which comes with built-in Wi-Fi and sufficient analog pins.
 
